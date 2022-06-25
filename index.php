@@ -22,7 +22,7 @@
 				background-color:green;
 			}
 			#box4{
-				background-color:pink;
+				background-color:khaki;
 			}
 		</style>
 	</head>
